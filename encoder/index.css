@@ -16,7 +16,7 @@ a {
     size: 100% 100%;
 }
 body {
-    background-image: url(/img/image_edited.jpeg);
+    background-image: url(image_edited.jpeg);
     background-repeat: no-repeat;
     background-color: #dacb88;
     background-size: 35%;

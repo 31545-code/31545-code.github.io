@@ -1,0 +1,54 @@
+#div {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: grid;
+}
+.but {
+    display: flex;
+    margin-top: 3vh;
+    margin-left: var(--s);
+    margin-right: var(--s);
+    width: fit-content;
+}
+a {
+    display: flex;
+    size: 100% 100%;
+}
+body {
+    background-image: url(/img/image_edited.jpeg);
+    background-repeat: no-repeat;
+    background-color: #dacb88;
+    background-size: 35%;
+    background-position: 30vw 7.5vh;
+}
+#list-prime-factors {
+    background-color: #f7f79d
+}
+#laugh {
+    background-color: #fce26b;
+}
+#factory {
+    background-color: #dcc75a;
+}
+#old {
+    background-color: #adb546;
+}
+#function {
+    background-color: #7a962f;
+}
+#polygon {
+    background-color: #609023;
+}
+#clock {
+    background-color: #476d08;
+}
+#notation {
+    background-color: #4a5705;
+}
+#element {
+    background-color: #615d13;
+}
+.white-text {
+    color: white;
+}
